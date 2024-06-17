@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Every 5 minute
-        run: echo "Hello Github Action Schedule"
+        run: echo "Hello Github Action Schedule."
