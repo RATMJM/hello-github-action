@@ -9,6 +9,9 @@ on:
       your_age:
         required: true
         type: integer
+      your_tongue:
+        required: true
+        type: integer
 jobs:
   hello-spring-boot:
     runs-on: ubuntu-latest
